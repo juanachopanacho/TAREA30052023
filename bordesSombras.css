@@ -1,0 +1,19 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    
+    text-shadow:10px 5px 5px rgb(159, 148, 148),
+    -10px 5px 3px rgb(233, 66, 66),
+    0px -5px 3px rgb(13, 200, 79);
+}
+
+section{
+    width: 75vw;
+    margin: 0 12.5vw;
+    height: 10vh;
+    box-shadow: 5px 5px rgb(17, 80, 162), 10px 10px red, 15px 15px purple;
+    border-bottom-left-radius: 10px;
+    border: 5px red solid;
+}
